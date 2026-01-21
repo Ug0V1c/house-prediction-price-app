@@ -6,6 +6,6 @@ Machine Learning Algorithm Used: Random Forest Regressor
 
 Model persistence method used (e.g., Joblib or Pickle): Joblib
 
-Live URL of the hosted application: https://house-prediction-system-jr6r.onrender.com/
+Live URL of the hosted application: https://house-prediction-price-app.onrender.com
 
 GitHub repository link: https://github.com/Ug0V1c/house-prediction-price-app
