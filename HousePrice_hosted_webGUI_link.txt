@@ -1,11 +1,11 @@
-Name: Jeremiah Bwala
+Name: Mbadiwe Victor
 
-Matric Number: 22CG031843
+Matric Number: 22CG031886
 
 Machine Learning Algorithm Used: Random Forest Regressor
 
 Model persistence method used (e.g., Joblib or Pickle): Joblib
 
-Live URL of the hosted application:
+Live URL of the hosted application: https://house-prediction-system-jr6r.onrender.com/
 
 GitHub repository link: https://github.com/Anonymousexit/House_prediction_system
